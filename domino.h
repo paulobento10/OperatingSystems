@@ -1,7 +1,3 @@
-//
-// Created by André Pinto on 17/01/17.
-//
-
 #ifndef SO_LIB_DOMINO_H
 #define SO_LIB_DOMINO_H
 

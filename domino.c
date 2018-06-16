@@ -1,7 +1,3 @@
-//
-// Created by arpinto on 07-10-2016.
-//
-
 #include "domino.h"
 #include <time.h>
 #include <stdlib.h>
